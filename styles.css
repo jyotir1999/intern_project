@@ -14,14 +14,14 @@ h1{
 }
 .middle_container{
     text-align: center;
-    height: 400px;
+    height: 600px;
 }
 .bottom_container{
     padding-top: 10px;
     text-align: center;
     background-color: #1b1717;
     margin-top: 20px;
-    height: 200px;
+    height: 100px;
 }
 .outer_box{
     width: 50%;
